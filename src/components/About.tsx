@@ -66,7 +66,7 @@ export default function About() {
             <div
               className="h-80 md:h-auto bg-cover bg-center"
               style={{
-                backgroundImage: "url('https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800')"
+                backgroundImage: "url('/images/devant-casadoc.png')"
               }}
             ></div>
             <div className="p-10 md:p-16 flex flex-col justify-center">

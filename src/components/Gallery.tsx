@@ -1,28 +1,28 @@
 export default function Gallery() {
   const images = [
     {
-      url: "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800",
-      alt: "Chambre confortable"
+      url: "/images/salon.png",
+      alt: "Salon"
     },
     {
-      url: "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=800",
-      alt: "Espace détente"
+      url: "/images/lits-simples.png",
+      alt: "Chambre avec lits simples"
     },
     {
-      url: "https://images.pexels.com/photos/1428348/pexels-photo-1428348.jpeg?auto=compress&cs=tinysrgb&w=800",
-      alt: "Petit déjeuner"
+      url: "/images/lit-double.png",
+      alt: "Chambre avec lit double"
     },
     {
-      url: "https://images.pexels.com/photos/460537/pexels-photo-460537.jpeg?auto=compress&cs=tinysrgb&w=800",
-      alt: "Jardin"
+      url: "/images/lit.png",
+      alt: "Chambre avec lit double"
     },
     {
-      url: "https://images.pexels.com/photos/1838554/pexels-photo-1838554.jpeg?auto=compress&cs=tinysrgb&w=800",
-      alt: "Intérieur charme"
+      url: "/images/sdb1.png",
+      alt: "Evier salle de bain"
     },
     {
-      url: "https://images.pexels.com/photos/931887/pexels-photo-931887.jpeg?auto=compress&cs=tinysrgb&w=800",
-      alt: "Extérieur"
+      url: "/images/sdb2.png",
+      alt: "Evier et douche salle de bain"
     }
   ];
 
